@@ -12,7 +12,7 @@ with header:
     st.title("Knights Domination Generlized Problem ♟")
 
 with input:
-    s=st.text_input("Enter Number of chessboard dimension:")
+    s=st.text_input("Enter the chessboard dimension:")
     
     try:
         s=int(s)
