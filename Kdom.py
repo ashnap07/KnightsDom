@@ -154,4 +154,4 @@ def kights_dom(n):
 
 
 
-#print(str(kights_dom(8)[2]))
+print(str(kights_dom(10)[2]))
